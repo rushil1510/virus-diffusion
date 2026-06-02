@@ -1,4 +1,4 @@
-# HW2: Influence Maximization Complete Walkthrough
+# Influence Maximization Complete Walkthrough
 
 > **Course**: COL761 - Data Mining, at IIT Delhi
 > This document explains the solution in `src/solution.cpp`, how it solves the influence maximization problem, and the mathematical intuition behind each design choice. Repository-specific details are sourced from [`src/solution.cpp`](src/solution.cpp), [`solution.sh`](solution.sh).
